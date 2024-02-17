@@ -1,0 +1,21 @@
+TO RUN:
+
+    PROBLEM #1:
+    DIRECTORY C:\ITS340>
+    COMMAND: javac problemOne.java
+    COMMAND: java problemOne
+
+    PROBLEM #2a
+    DIRECTORY C:\ITS340>
+    COMMAND: javac Scholarship.java
+    COMMAND: java Scholarship
+
+    PROBLEM #2b
+    DIRECTORY C:\ITS340>
+    COMMAND: javac Scholarship2.java
+    COMMAND: java Scholarship2
+
+    PROBLEM #3
+    DIRECTORY C:\ITS340\PAY>
+    COMMAND: javac *.java
+    COMMAND: java Pay
